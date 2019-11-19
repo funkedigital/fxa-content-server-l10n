@@ -15,6 +15,9 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-POOTLE-MTIME: 1444338461.0\n"
 
+msgid "Create a Funke Account"
+msgstr "Ein Funke-Konto erstellen"
+
 #: .es5/views/confirm_reset_password.js:211 .es5/views/confirm_reset_password.js:195 .es5/views/confirm_reset_password.js:199
 msgid "Password reset"
 msgstr "Passwort zurückgesetzt"
