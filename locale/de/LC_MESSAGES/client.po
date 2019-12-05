@@ -18,6 +18,9 @@ msgstr ""
 msgid "Create a Funke Account"
 msgstr "Ein Funke-Konto erstellen"
 
+msgid "Email resent. Add accounts@funkedigital.de to your contacts to ensure a smooth delivery."
+msgstr "E-Mail erneut gesendet. Fügen Sie accounts@funkedigital.de zu Ihren Kontakten hinzu, damit die E-Mail problemlos zugestellt wird."
+
 #: .es5/views/confirm_reset_password.js:211 .es5/views/confirm_reset_password.js:195 .es5/views/confirm_reset_password.js:199
 msgid "Password reset"
 msgstr "Passwort zurückgesetzt"
